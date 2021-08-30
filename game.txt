@@ -1,0 +1,30 @@
+pc and npc of the game are pc=spacecraft,npc=obstacles(meteroits,ufo,etc)
+
+aim of the game:player will start his/her journey from the earth passing through and crossing many obstacles and he/she will reach to their final destination which is mars.
+
+Game will be based or depends on the skills of the player means how focusedly he/she is playing.
+
+ Their will be game adaptivity in the game means after reaching some score the spedd of the obstacles will increase and more variety of obstacles will be added.
+
+Rules :
+1)player will get freedom to attack on UFO types obstacle only.
+2)player cannot attack on meteroits type obstacles
+3)if any obstcle touches players spacecraft their will be deduction of 1 life.(Their will be 3 lives in total)
+4)Their will be some natural attacks like solar storm which will increase spacecraft speed imediately this will check how focus player is.
+5) During natural attack player will get benifit that the speed and quantity of obstacle will be less.
+6)In between player will get sheild type tools which will helps to destroy meteroits type obstacles also.
+7)after loosing 1 life game will be restarted from the starting.
+8)Starting of the game will be super easy for all types of players.
+9)Their will be scoring system
+10)On hitting each ufo score will increased by 4. 
+
+feedbacks:
+some different sound will be played when 
+case:1
+players hits the ufo
+case:2
+meteroites or ufo touches players spacecraft
+
+sidekicks:
+background sound will play continuosly
+on completing the game some celebration type animation will be added.
